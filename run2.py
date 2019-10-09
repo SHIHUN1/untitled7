@@ -3,4 +3,4 @@ import pytest
 
 
 
-pytest.main(['-m','smoke','--alluredir=allure-report'])
+pytest.main(['-m','smoke','--alluredir=allure-reports'])
