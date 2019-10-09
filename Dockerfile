@@ -6,4 +6,4 @@ WORKDIR /test
 COPY requirements.txt /test
 RUN pip install -r requirements.txt
 COPY . /test
-CMD ["python", "run2.py" ,"--alluredir", "allure-results"]
+CMD ["python", "run2.py"]
