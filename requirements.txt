@@ -13,7 +13,7 @@ et-xmlfile==1.0.1
 idna==2.8
 importlib-metadata==0.19
 jdcal==1.4.1
-lxml==4.4.1
+lxml==4.6.3
 more-itertools==7.2.0
 namedlist==1.7
 openpyxl==2.6.2
